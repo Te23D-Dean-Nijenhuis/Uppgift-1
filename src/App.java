@@ -29,7 +29,7 @@ public class App {
 
         Scanner tb = new Scanner(System.in);
 
-        System.out.println("gissa tal mellan 1 och 67");
+        System.out.println("gissa tal mellan 1 och 68");
 
         int gissa = -100;
 
